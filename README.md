@@ -1,6 +1,6 @@
 # wordpair_generator
 
-A new Flutter project.
+A Flutter app project which generates wordpairs seamlessly while scrolling on device.
 
 ## Getting Started
 
